@@ -1,5 +1,5 @@
 
-public class Hello {
+public class Hello_B {
 	
 	public static int sum(int n, int m) { // 합하는 함수
 		return n + m;
